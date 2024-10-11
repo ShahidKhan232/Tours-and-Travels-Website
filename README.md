@@ -22,7 +22,7 @@ To get the project running locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/ShahidKhan232/Tours-and-Travels-website.git
+   git clone https://github.com/ShahidKhan232/Tours-and-Travels-website.git
    ```
 
 3. **Setup your web server**:
